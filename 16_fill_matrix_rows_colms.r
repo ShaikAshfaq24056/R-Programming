@@ -13,3 +13,5 @@ print(m2)
 print("3 × 3 matrix with labels, filled by columns: ")
 m3 = matrix(cells, nrow=3, ncol=3, byrow=FALSE, dimnames=list(rnames, cnames))
 print(m3)
+
+#by Shaik Ashfaq
