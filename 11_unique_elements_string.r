@@ -10,3 +10,5 @@ print("Original vector(number)")
 print(nums)
 print("Unique elements of the said vector:")
 print(unique(nums))
+
+#by Shaik Ashfaq
