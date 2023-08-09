@@ -10,3 +10,5 @@ print(b)
 print(typeof(b))
 print(c)
 print(typeof(c))
+
+#by Shaik Ashfaq
