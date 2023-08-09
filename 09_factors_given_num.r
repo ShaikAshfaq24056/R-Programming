@@ -11,3 +11,5 @@ print_factors = function(n) {
 print_factors(4)
 print_factors(7)
 print_factors(12)
+
+#by Shaik Ashfaq
