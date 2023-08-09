@@ -7,3 +7,5 @@ print(n)
 t = table(n)
 print("Count occurrences of each value:")
 print(t)
+
+#by Shaik Ashfaq
